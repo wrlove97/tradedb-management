@@ -1,0 +1,9 @@
+{
+  "server": "127.0.0.1",
+  "database": "tradeDB",
+  "username": "sa",
+  "password": "your_password",
+  "driver": "SQL Server",
+  "port": 1433,
+  "trusted_connection": false
+}
